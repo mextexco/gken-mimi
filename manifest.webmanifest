@@ -1,0 +1,17 @@
+{
+  "name": "G検定 耳学習",
+  "short_name": "G検定耳学習",
+  "description": "G検定の耳学習シナリオを聞いて、小テストと合格の見込みで仕上がりを確認するアプリ",
+  "lang": "ja",
+  "start_url": "./#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef0f5",
+  "theme_color": "#15171c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
